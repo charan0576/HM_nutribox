@@ -74,7 +74,7 @@ const ContactPage = () => {
           <div className="mt-8 pt-6 border-t border-gray-200">
             <h3 className="font-semibold text-gray-800 mb-4">Quick Contact</h3>
             <a
-              href="https://wa.me/7013773104"
+              href="https://wa.me/8984576999"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center space-x-2 bg-green-500 hover:bg-green-600 text-white px-6 py-3 rounded-lg font-medium transition-colors duration-300"
