@@ -6,8 +6,8 @@ const PlansPage = ({ onPlanSelect }) => {
   const plans = [
     {
       id: 'regular',
-      name: 'Jr.pack',
-      price: 1600(for childrens),
+      name: 'regular',
+      price: 1600,
       icon: Check,
       color: 'from-blue-500 to-blue-600',
       bgColor: 'bg-blue-50',
@@ -22,8 +22,8 @@ const PlansPage = ({ onPlanSelect }) => {
     },
     {
       id: 'golden',
-      name: 'Standar pack',
-      price: 2400(for one persons),
+      name: 'golden',
+      price: 2400,
       icon: Star,
       color: 'from-yellow-500 to-yellow-600',
       bgColor: 'bg-yellow-50',
@@ -40,8 +40,8 @@ const PlansPage = ({ onPlanSelect }) => {
     },
     {
       id: 'diamond',
-      name: 'Jumbo pack',
-      price: 4000(for two persons),
+      name: 'diamond',
+      price: 4000,
       icon: Gem,
       color: 'from-purple-500 to-purple-600',
       bgColor: 'bg-purple-50',
