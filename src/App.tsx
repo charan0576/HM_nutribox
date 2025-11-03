@@ -47,7 +47,7 @@ function App() {
               <div className="w-10 h-10 bg-gradient-to-r from-green-500 to-orange-500 rounded-full flex items-center justify-center">
                 <img src={hm_logo} />
               </div>
-              <span className="text-xl font-bold text-gray-800">NutriBox</span>
+              <span className="text-xl font-bold text-gray-800">Healthy Handi</span>
             </div>
 
             {/* Navigation Items */}
