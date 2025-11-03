@@ -239,7 +239,7 @@ const PlanDetails = ({ plan, onBack }) => {
           Contact us via WhatsApp to subscribe to this plan and start receiving fresh, quality produce daily.
         </p>
         <a
-          href={`https://wa.me/7013773104`}
+          href={`https://wa.me/8984576999`}
           target="_blank"
           rel="noopener noreferrer"
           className={`inline-flex items-center space-x-2 bg-gradient-to-r ${plan.color} text-white px-8 py-3 rounded-lg font-medium hover:opacity-90 transition-all duration-300`}
