@@ -6,7 +6,7 @@ const HomePage = ({ onNavigateToPlans }) => {
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
       {/* Hero Section */}
       <div className="text-center mb-16">
-        <div className="w-24 h-24 bg-gradient-to-r from-green-500 to-orange-500 rounded-full flex items-center justify-center mx-auto mb-6">
+        <div className="w-24 h-24  flex items-center justify-center mx-auto mb-6">
           <img src={hm_logo}  />
         </div>
         <h1 className="text-4xl md:text-6xl font-bold text-gray-800 mb-4">
