@@ -7,7 +7,7 @@ const PlansPage = ({ onPlanSelect }) => {
     {
       id: 'regular',
       name: 'Regular Plan',
-      price: 1199,
+      price: 1600,
       icon: Check,
       color: 'from-blue-500 to-blue-600',
       bgColor: 'bg-blue-50',
@@ -23,7 +23,7 @@ const PlansPage = ({ onPlanSelect }) => {
     {
       id: 'golden',
       name: 'Golden Plan',
-      price: 1799,
+      price: 2400,
       icon: Star,
       color: 'from-yellow-500 to-yellow-600',
       bgColor: 'bg-yellow-50',
@@ -41,7 +41,7 @@ const PlansPage = ({ onPlanSelect }) => {
     {
       id: 'diamond',
       name: 'Diamond Plan',
-      price: 2199,
+      price: 4000,
       icon: Gem,
       color: 'from-purple-500 to-purple-600',
       bgColor: 'bg-purple-50',
