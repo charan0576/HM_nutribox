@@ -14,7 +14,7 @@ const HomePage = ({ onNavigateToPlans }) => {
   />
 </div>
         <h1 className="text-4xl md:text-6xl font-bold text-gray-800 mb-4">
-          HM<span className="text-green-600">NutriBox</span>
+          Healthy<span className="text-green-600"> Handi</span>
         </h1>
         <p className="text-xl md:text-2xl text-gray-600 mb-8 max-w-3xl mx-auto leading-relaxed">
           Premium quality dry fruits, fresh fruits,Sprouts and vegetables delivered to your doorstep daily
@@ -114,12 +114,12 @@ const HomePage = ({ onNavigateToPlans }) => {
               className="w-full h-32 object-cover rounded-lg"
             />
             <img
-              src="https://images.pexels.com/photos/1508666/pexels-photo-1508666.jpeg?auto=compress&cs=tinysrgb&w=400"
-              alt="Fresh vegetables"
+              src="https://imgs.search.brave.com/-TKpWYRE8LnGhJ8qQG9pxYgmcFANvj9Ma5tZfenJ0JQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTcw/NDI4NTY3L3Bob3Rv/L2ZyZXNoLXNveS1i/ZWFuLXNwcm91dHMt/aW4td2lja2VyLWJh/c2tldC5qcGc_cz02/MTJ4NjEyJnc9MCZr/PTIwJmM9RWZVVFFV/MmFoakY1S1Jwa29S/M0FNUHVzdlJYREVY/X3NoRlNlazhaWV8t/TT0"
+              alt="sprouts"
               className="w-full h-32 object-cover rounded-lg"
             />
             <img
-              src="https://images.pexels.com/photos/1435904/pexels-photo-1435904.jpeg?auto=compress&cs=tinysrgb&w=400"
+              src="https://imgs.search.brave.com/KpS4OcchDUpziWBWgtodymQIi7LYJQa2j1_ofOnmecc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bW9uaWNhbmVkZWZm/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAxOS8xMi9yb2Fz/dGVkLWJlZXRzLWFu/ZC1zd2VldC1wb3Rh/dG9lcy01MDB4NTAw/LmpwZy53ZWJw"
               alt="Healthy bowl"
               className="w-full h-32 object-cover rounded-lg"
             />
