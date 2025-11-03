@@ -7,8 +7,12 @@ const HomePage = ({ onNavigateToPlans }) => {
       {/* Hero Section */}
       <div className="text-center mb-16">
         <div className="w-24 h-24 bg-gradient-to-r from-green-500 to-orange-500 rounded-full flex items-center justify-center mx-auto mb-6">
-          <img src={hm_logo}  />
-        </div>
+  <img 
+    src={hm_logo} 
+    className="w-14 h-14 object-contain" 
+    alt="logo" 
+  />
+</div>
         <h1 className="text-4xl md:text-6xl font-bold text-gray-800 mb-4">
           HM<span className="text-green-600">NutriBox</span>
         </h1>
