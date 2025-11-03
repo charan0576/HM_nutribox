@@ -143,8 +143,9 @@ const PlanDetails = ({ plan, onBack }) => {
             <h1 className="text-3xl font-bold text-gray-800 mb-2">{plan.name} - Weekly Schedule</h1>
             <p className="text-xl text-gray-600">₹{plan.price}/month • Monday to Saturday Delivery</p>
           </div>
-          <div className={`w-20 h-20 bg-gradient-to-r ${plan.color} rounded-full flex items-center justify-center`}>
-            <img src={hm_logo} alt="" />
+          <div className={`w-20 h-20  flex items-center justify-center`}>
+            <img src={hm_logo} style={{ borderRadius: "15%" }} 
+  alt="logo" />
           </div>
         </div>
       </div>
