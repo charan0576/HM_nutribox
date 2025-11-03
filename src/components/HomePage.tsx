@@ -9,7 +9,7 @@ const HomePage = ({ onNavigateToPlans }) => {
         <div className="w-24 h-24  flex items-center justify-center mx-auto mb-6">
           <img 
   src={hm_logo} 
-  style={{ borderRadius: "50%" }} 
+  style={{ borderRadius: "25%" }} 
   alt="logo"
 />
         </div>
