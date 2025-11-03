@@ -44,7 +44,7 @@ function App() {
           <div className="flex justify-between items-center h-16">
             {/* Logo */}
             <div className="flex items-center space-x-2">
-              <div className="w-10 h-10 bg-gradient-to-r from-green-500 to-orange-500 rounded-full flex items-center justify-center">
+              <div className="w-10 h-10  flex items-center justify-center">
                 <img src={hm_logo} />
               </div>
               <span className="text-xl font-bold text-gray-800">Healthy Handi</span>
@@ -110,7 +110,7 @@ function App() {
 
       {/* WhatsApp Floating Button */}
       <a
-        href="https://wa.me/7013773104"
+        href="https://wa.me/8984576999"
         target="_blank"
         rel="noopener noreferrer"
         className="fixed bottom-6 right-6 w-14 h-14 bg-green-500 hover:bg-green-600 rounded-full flex items-center justify-center shadow-lg hover:shadow-xl transition-all duration-300 z-50 group"
