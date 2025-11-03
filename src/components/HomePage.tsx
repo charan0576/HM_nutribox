@@ -7,7 +7,11 @@ const HomePage = ({ onNavigateToPlans }) => {
       {/* Hero Section */}
       <div className="text-center mb-16">
         <div className="w-24 h-24  flex items-center justify-center mx-auto mb-6">
-          <img src={hm_logo}  />
+          <img 
+  src={hm_logo} 
+  style={{ borderRadius: "50%" }} 
+  alt="logo"
+/>
         </div>
         <h1 className="text-4xl md:text-6xl font-bold text-gray-800 mb-4">
           Healthy<span className="text-green-600"> Handi</span>
